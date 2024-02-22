@@ -1,5 +1,5 @@
 
-functio App() {
+function App() {
   return <>Final Deployed url</>
 }
 
